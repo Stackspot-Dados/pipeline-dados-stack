@@ -7,3 +7,5 @@ inputs:
 plugins:
   - plugin: pipeline-dados/aws-start-rds-snapshot-plugin
   - plugin: pipeline-dados/aws-lambda-export-rds-s3-plugin
+  - plugin: pipeline-dados/aws-glue-start-workflow-plugin
+  - plugin: pipeline-dados/aws-glue-workflow-plugin
