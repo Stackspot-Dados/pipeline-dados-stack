@@ -4,3 +4,6 @@
 [submodule "terraform-initial-template"]
 	path = terraform-initial-template
 	url = https://github.com/Stackspot-Dados/terraform-initial-template
+[submodule "aws-lambda-export-rds-s3-plugin"]
+	path = aws-lambda-export-rds-s3-plugin
+	url = https://github.com/Stackspot-Dados/aws-lambda-export-rds-s3-plugin
