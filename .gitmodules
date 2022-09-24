@@ -7,3 +7,6 @@
 [submodule "aws-lambda-export-rds-s3-plugin"]
 	path = aws-lambda-export-rds-s3-plugin
 	url = https://github.com/Stackspot-Dados/aws-lambda-export-rds-s3-plugin
+[submodule "aws-glue-start-workflow-plugin"]
+	path = aws-glue-start-workflow-plugin
+	url = https://github.com/Stackspot-Dados/aws-glue-start-workflow-plugin
