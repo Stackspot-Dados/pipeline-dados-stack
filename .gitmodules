@@ -10,3 +10,6 @@
 [submodule "aws-glue-start-workflow-plugin"]
 	path = aws-glue-start-workflow-plugin
 	url = https://github.com/Stackspot-Dados/aws-glue-start-workflow-plugin
+[submodule "aws-glue-workflow-plugin"]
+	path = aws-glue-workflow-plugin
+	url = https://github.com/Stackspot-Dados/aws-glue-workflow-plugin
