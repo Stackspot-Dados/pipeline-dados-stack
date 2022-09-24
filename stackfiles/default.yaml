@@ -1,7 +1,6 @@
 type: app
 description: Default stackfile usecase description
-# template used to create the project
-template: pipeline-dados/<template-name>
+template: pipeline-dados/terraform
 inputs:
   some_input: value
 # list of plugins to be applied after project creation

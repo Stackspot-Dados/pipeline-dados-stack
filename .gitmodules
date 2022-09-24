@@ -1,3 +1,6 @@
 [submodule "aws-start-rds-snapshot-plugin"]
 	path = aws-start-rds-snapshot-plugin
 	url = https://github.com/Stackspot-Dados/aws-start-rds-snapshot-plugin
+[submodule "terraform-initial-template"]
+	path = terraform-initial-template
+	url = https://github.com/Stackspot-Dados/terraform-initial-template
